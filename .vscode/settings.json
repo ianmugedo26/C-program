@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "function.C": "cpp",
+        "structure.C": "cpp",
+        "fileoutput.C": "cpp",
+        "sentence writes.C": "cpp",
+        "sentence read.C": "cpp",
+        "sentence append.C": "cpp",
+        "read and write.C": "cpp",
+        "Paragraph.C": "cpp",
+        "5Students.C": "cpp",
+        "n students.C": "cpp",
+        "Paragraph append.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
